@@ -73,3 +73,15 @@ ul {
     margin: 2rem 0;
 }
 
+
+@media screen and (max-width:320px) {
+/* .social--links {
+    display: flex;
+    flex-direction: column;
+} */
+.social--links p{
+    display: flex;
+    flex-direction:column;
+}
+
+}
