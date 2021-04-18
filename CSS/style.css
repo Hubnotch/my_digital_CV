@@ -61,9 +61,15 @@ font-size: 89%;
     justify-content: space-between;
 }
 
+.social--links p span,
 span {
     font-weight: bold;
 }
 ul {
     margin-left: 2.7rem;
 }
+
+.social--links {
+    margin: 2rem 0;
+}
+
